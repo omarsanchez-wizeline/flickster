@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickster</string>
+    <string name="player_error">Youtube Error  %s</string>
+    <string name="releaseDate">Released on %s</string>
+</resources>
